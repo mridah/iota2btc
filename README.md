@@ -1,6 +1,9 @@
 # iota2btc
 API to convert iota to bitcoin. uses bitfinex and zebpay APIs
 
+**This project is currently hosted on**
+https://conv.mridulahuja.com/INR/0.5656
+
 **Requirements**
 1) Node JS
 2) Apache server
