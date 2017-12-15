@@ -1,2 +1,13 @@
 # iota2btc
 API to convert iota to bitcoin. uses bitfinex and zebpay APIs
+
+**Requirements**
+1) Node JS
+2) Apache server
+
+**Setup**
+
+1) clone this repositorty
+2) go to root directory and run `npm install`
+3) run `npm start`
+4) to view on browser, go to `localhost:2232`
