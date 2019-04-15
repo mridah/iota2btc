@@ -20,7 +20,7 @@
     "jsonwebtoken": "^8.1.0",
     "log": "^1.4.0",
     "mongoose": "^4.11.13",
-    "morgan": "~1.7.0",
+    "morgan": ">=1.9.1",
     "node-datetime": "^2.0.3",
     "serve-favicon": "~2.3.0",
     "sha256": "^0.2.0",
